@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: iLanding
-Template URL: https://bootstrapmade.com/ilanding-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: GROSign
+Template URL: https://www.grosign.com.br
+Updated: Nov 12 2024 with Bootstrap v5.3.3
+Author: Rodrigo Thauã
