@@ -2343,3 +2343,15 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+/*--------------------------------------------------------------
+# Dados Section Section
+--------------------------------------------------------------*/
+#dados .feature-box{
+  text-align: center;
+}
+
+#dados .feature-box i{
+  color: #a9170c;
+  font-size: 50px;
+}
