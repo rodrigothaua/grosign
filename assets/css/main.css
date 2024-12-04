@@ -2355,3 +2355,10 @@ section,
   color: #a9170c;
   font-size: 50px;
 }
+
+/*--------------------------------------------------------------
+# whats-sign Section Section
+--------------------------------------------------------------*/
+.whats-sign .container .row{
+  display: flex;
+}
